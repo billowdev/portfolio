@@ -74,21 +74,23 @@
 					<div class="swiper-pagination swiper-pagination-certificate"></div>
 				</div>
 			</section>
-			
-
 
 			<!-- Contact Section -->
-			<contact-component></contact-component>
-			
-			<!-- Footer Section -->
-			<footer-component></footer-component>
-
-			<!-- Scroll Top Section -->
+			<contact-component></contact-component>			
 		</main>
+		
+		<!-- Footer Section -->
+		<footer-component></footer-component>
 
+		<!-- Scroll Top Section -->
+		<a href="#" class="scrollup" id="scroll-up">
+			<i class="uil uil-arrow-up scrollup_icon"></i>
+		</a>
 	</div>
 
 	<!-- Java Sript Section -->
+	<!-- main -->
+	<script src="./assets/js/main.js"></script>
 	<!-- swiper -->
 	<script src="./assets/js/swiper-bundle.min.js"></script>
 	<!-- http vue loader -->
@@ -97,7 +99,6 @@
 	<script src="./assets/js/vue.min.js"></script>
 	<!-- Axios -->
 	<script src="node_modules/axios/dist/axios.min.js"></script>
-
 	<script>
 		new Vue({
 			el: "#app",
@@ -113,7 +114,6 @@
 				'certificates-component': httpVueLoader('./components/certificates.vue'),
 				'contact-component': httpVueLoader('./components/contact.vue'),
 				'footer-component': httpVueLoader('./components/footer.vue'),
-
 			},
 			data () {
 				return {

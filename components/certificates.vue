@@ -39,7 +39,8 @@ module.exports = {
 					slidesPerView: 2,
 				}
 			},
-			mousewheel: true
+			keyboard: true,
+			mouse: true
 		})
 	}
 }

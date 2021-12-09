@@ -28,8 +28,7 @@ module.exports = {
 			pagination: {
 				el: ".swiper-pagination",
 				clickable: true,
-			},
-			keyboard: true,
+			}
       });
 	}
 }
