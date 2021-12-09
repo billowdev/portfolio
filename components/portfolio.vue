@@ -21,8 +21,6 @@ module.exports = {
 	mounted(){
 		let swiper = new Swiper(".portfolio_container", {
 			cssMode: true,
-			loop: true,
-
 			navigation: {
 				nextEl: ".swiper-button-next",
 				prevEl: ".swiper-button-prev",
@@ -31,6 +29,7 @@ module.exports = {
 				el: ".swiper-pagination",
 				clickable: true,
 			},
+			keyboard: true,
       });
 	}
 }

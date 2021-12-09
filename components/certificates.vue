@@ -25,20 +25,21 @@ module.exports = {
 	props: ['cert'],
 	mounted(){
 		let swiper = new Swiper(".certificates_container", {
-		loop: true,
-		grapCursor: true,
-		spaceBetween: 48,
+			loop: true,
+			grapCursor: true,
+			spaceBetween: 48,
 
-		pagination: {
-			el: ".swiper-pagination",
-			clickable: true,
-			dynamicBullets: true,
-		},
-		breakpoints:{
-			568:{
-				slidesPerView: 2,
-			}
-		}
+			pagination: {
+				el: ".swiper-pagination",
+				clickable: true,
+				dynamicBullets: true,
+			},
+			breakpoints:{
+				568:{
+					slidesPerView: 2,
+				}
+			},
+			mousewheel: true
 		})
 	}
 }

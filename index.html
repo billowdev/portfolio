@@ -42,7 +42,6 @@
 			<section class="portfolio section" id="portfolio">
 				<h2 class="section_title">Portfolio</h2>
 				<span class="section_subtitle">Most recent work</span>
-
 				<div class="portfolio_container container swiper">
 					<div class="swiper-wrapper">
 						<portfolio-component v-for="port in ports" :key="port.id" :port="port"></portfolio-component>
@@ -60,24 +59,24 @@
 			</section>
 
 			<!-- Certificates Section -->
-			
 			<section class="certificates section">
 				<h2 class="section_title">Certificates</h2>
 				<span class="section_subtitle">My certificates</span>
 				
 				<div class="certificates_container container swiper">
 					<div class="swiper-wrapper">
-						<!-- certificate platform 1-->
+						<!-- certificate -->
 							<certificates-component v-for="cert in certs" :key="cert.cid" :cert="cert"></certificates-component>
 					<!-- Add Pagination -->
 					<div class="swiper-pagination swiper-pagination-certificate"></div>
 				</div>
-
-				<!-- <certificates-component v-for="cert in certificates" :key="cert.cid" :cert="cert"></certificates-component> -->
 			</section>
 			
 			<!-- <project-component></project-component> -->
 
+			<!-- Contact Section -->
+			<contact-component></contact-component>
+			
 			<!-- Footer Section -->
 		
 			<!-- Scroll Top Section -->
@@ -92,10 +91,9 @@
 	<script src="./assets/js/httpVueLoader.js"></script>
 	<!-- vue js -->
 	<script src="./assets/js/vue.min.js"></script>
+	<!-- Axios -->
+	<script src="node_modules/axios/dist/axios.min.js"></script>
 
-	<script src="./assets/js/main.js"></script>
-
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.24.0/axios.min.js"></script>
 	<script>
 		new Vue({
 			el: "#app",
@@ -109,6 +107,8 @@
 				'portfolio-component': httpVueLoader('./components/portfolio.vue'),
 				'project-component': httpVueLoader('./components/project.vue'),
 				'certificates-component': httpVueLoader('./components/certificates.vue'),
+				'contact-component': httpVueLoader('./components/contact.vue'),
+
 			},
 			data () {
 				return {
