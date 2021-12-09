@@ -806,51 +806,36 @@ img{
 
 /* Certificates Section */
 
-.certificates_container .swiper {
-	width: 100%;
-	height: 100%;
-}
-
-.certificates_container .swiper-slide {
-	text-align: center;
-	font-size: 18px;
-	background: #fff;
-
-	/* Center slide text vertically */
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: -webkit-flex;
+.certificate_data,
+.certificate_header{
 	display: flex;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	-webkit-justify-content: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	-webkit-align-items: center;
-	align-items: center;
 }
 
-.certificates_container .swiper-slide img {
-	display: block;
+.certificate_data{
+	justify-content: space-between;
+	margin-bottom: var(--mb-1);
+}
+
+.certificate_img{
 	width: 100%;
-	height: 100%;
-	object-fit: cover;
+	/* border-radius: .2rem; */
+	justify-self: center;
 }
 
-.certificates_container .swiper-portfolio-icon{
-	font-size: 2rem;
-	color: var(--first-color);
+.certificate_name{
+	font-size: var(--h3-font-size);
+	font-weight: var(--font-medium);
 }
 
-.certificates_container .swiper-button-prev{
-	left: 1rem;
+.certificate_platform{
+	font-size: var(--small-font-size);
+	color: var(--text-color-light);
 }
 
-.certificates_container .swiper-button-next{
-	right: 1rem;
+.certificate_description{
+	margin-bottom: var(--mb-0-25);
 }
 
-.certificates_container .swipper-container-horizontal > .swiper-pagination-bullets{
-	bottom: -3rem;
+.certificate_section .swiper-container .swiper-pagination-certificate{
+	bottom: 0;
 }
