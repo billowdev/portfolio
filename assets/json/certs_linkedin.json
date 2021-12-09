@@ -1,0 +1,25 @@
+{
+    "response": [{
+		"id": 1,
+		"name": "Tech Skill-Python",
+		"platform": "LinkedIn",
+		"description": "คอร์ส Data Ingestion with Python บน LinkedIn Learning นี้ก็เป็นคอร์สที่ดีมาก ๆ เลยครับ เป็นคอร์สที่ให้ความรู้ในเรื่องข้อมูล การทำ Data Ingestion เป็นพื้นฐานเกี่ยวกับการจัดการข้อมูลครับ",
+		"img" : "../assets/images/cert_img/LinkedIn/cl_1.jpg",
+		"link": "https://tinyurl.com/Data-Ingestion-linkedin"
+	},{
+		"id": 2,
+		"name": "Tech Skill-Basic Python",
+		"platform": "LinkedIn",
+		"description": "เป็นคอร์สที่ปูพื้นฐานภาษา Python ที่ดีคอร์สหนึ่งเลยครับ แต่สำหรับผมเรียนเพื่อทบทวน และทำให้พื้นฐานผมแน่นขึ้นครับ : )",
+		"img" : "../assets/images/cert_img/LinkedIn/cl_2.jpg",
+		"link": "https://tinyurl.com/basicpython-likedin"
+	},{
+		"id": 3,
+		"name": "Tech Skill-Python OOP",
+		"platform": "LinkedIn",
+		"description": "คอร์สเกี่ยวกับการเขียนโปรแกรมเชิง OOP ด้วย Python My review: เป็นคอร์สที่ทำให้ผมได้รู้จักเทคนิคการเขียนโปรแกรมเชิง OOP ด้วยภาษา Python มากยิ่งขึ้น",
+		"img" : "../assets/images/cert_img/LinkedIn/cl_3.jpg",
+		"link": "https://tinyurl.com/designpattern-python-linkedin"
+	}
+	]       
+}
