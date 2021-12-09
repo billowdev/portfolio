@@ -45,6 +45,10 @@
 						<i class="uil uil-apps"></i>
 					</div>
 				</div>
+
+				<div class="progressContainer">
+      			<div class="progressBar"></div>
+
 			</nav>
 </template>
 
@@ -130,10 +134,21 @@ module.exports = {
 			localStorage.setItem('selected-icon', getCurrentIcon())
 		})
 
+		// ---------------------- progress bar ---------------------- 
+		window.addEventListener('scroll', function(){
+			let wintop = this.scrollY
+			let navbar = document.querySelector(".navbar")
+
+			let winheight = this.innerHeight
+			let docheight = document.querySelector("body").offsetHeight
+			let totalScroll = ( wintop / (docheight - winheight) ) * 100
+
+			let bar = document.querySelector(".progressBar")
+			bar.style.width = `${totalScroll}%`
+    	})
 	}
+	
 };
-
-
 
 </script>
 

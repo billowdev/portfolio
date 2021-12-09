@@ -12,7 +12,7 @@
 		<p class="certificate_description">{{cert.description}}</p>
 		<a :href="cert.link" target="_blank" rel="noopener noreferrer">
 			<span class="button button--flex button--small button--link services_button">
-				View More
+				View Certificate.
 				<i class="uil uil-arrow-right button_icon"></i>
 		</span>
 		</a>
@@ -36,7 +36,7 @@ module.exports = {
 			},
 			breakpoints:{
 				568:{
-					slidesPerView: 2,
+					slidesPerView: 3,
 				}
 			},
 			keyboard: true,

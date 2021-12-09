@@ -12,7 +12,7 @@
 
 							<div>
 								<h1 class="skills_title">Fronted developer</h1>
-								<span class="skills_subtitle">More than 1 years</span>
+								<!-- <span class="skills_subtitle">More than 1 years</span> -->
 							</div>
 
 							<i class="uil uil-angle-down skills_arrow"></i>
@@ -88,7 +88,7 @@
 
 							<div>
 								<h1 class="skills_title">Backend developer</h1>
-								<span class="skills_subtitle">More than 1 years</span>
+								<!-- <span class="skills_subtitle">More than 1 years</span> -->
 							</div>
 
 							<i class="uil uil-angle-down skills_arrow"></i>
@@ -153,7 +153,7 @@
 
 							<div>
 								<h1 class="skills_title">Data Science</h1>
-								<span class="skills_subtitle">More than 1 years</span>
+								<!-- <span class="skills_subtitle">More than 1 years</span> -->
 							</div>
 
 							<i class="uil uil-angle-down skills_arrow"></i>
