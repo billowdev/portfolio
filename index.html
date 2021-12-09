@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>lacakp</title>
+	<!-- iconscout unicode Section : https://iconscout.com/unicons-->
+	<link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+	<!-- Stylesheet Section -->
+	<link rel="stylesheet" href="./assets/css/swiper-bundle.min.css">
+	<link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+	
+	<div id="app">
+		<!-- Header Section -->
+		<header class="header" id="header">
+			<!-- Navbar Section -->
+			<navbar-component></navbar-component>
+		</header>
+
+		<!-- Main Section -->
+		<main class="main">
+			
+			<!-- Home Section -->
+			<home-component></home-component>
+
+			<!-- About Section -->
+			<about-component></about-component>
+			
+			<!-- Skills Section -->
+			<skills-component></skills-component>
+
+			<!-- Qualification Section -->
+			<qualification-component></qualification-component>
+
+			<!-- Skills Section -->
+			<services-component></services-component>
+
+			<!-- Portfolio Section -->
+			<section class="portfolio section" id="portfolio">
+				<h2 class="section_title">Portfolio</h2>
+				<span class="section_subtitle">Most recent work</span>
+				<div class="portfolio_container container swiper">
+					<div class="swiper-wrapper">
+						<portfolio-component v-for="port in ports" :key="port.id" :port="port"></portfolio-component>
+					</div>
+					<!-- Add Arrow -->
+					<div class="swiper-button-next">
+						<i class="uil uil-angle-right-b swiper-portfolio-icon"></i>
+					</div>
+					<div class="swiper-button-prev">
+						<i class="uil uil-angle-left-b swiper-portfolio-icon"></i>
+					</div>
+					<!-- Add Pagination -->
+					<div class="swiper-pagination"></div>
+				</div>
+			</section>
+
+			<!-- Project Section -->
+			<!-- <project-component></project-component> -->
+
+			<!-- Certificates Section -->
+			<section class="certificates section">
+				<h2 class="section_title">Certificates</h2>
+				<span class="section_subtitle">My certificates</span>
+				
+				<div class="certificates_container container swiper">
+					<div class="swiper-wrapper">
+						<!-- certificate -->
+							<certificates-component v-for="cert in certs" :key="cert.cid" :cert="cert"></certificates-component>
+					<!-- Add Pagination -->
+					<div class="swiper-pagination swiper-pagination-certificate"></div>
+				</div>
+			</section>
+
+			<!-- Contact Section -->
+			<contact-component></contact-component>			
+		</main>
+		
+		<!-- Footer Section -->
+		<footer-component></footer-component>
+
+		<!-- Scroll Top Section -->
+		<a href="#" class="scrollup" id="scroll-up">
+			<i class="uil uil-arrow-up scrollup_icon"></i>
+		</a>
+	</div>
+
+	<!-- Java Sript Section -->
+	<!-- main -->
+	<script src="./assets/js/main.js"></script>
+	<!-- swiper -->
+	<script src="./assets/js/swiper-bundle.min.js"></script>
+	<!-- http vue loader -->
+	<script src="./assets/js/httpVueLoader.js"></script>
+	<!-- vue js -->
+	<script src="./assets/js/vue.min.js"></script>
+	<!-- Axios -->
+	<script src="node_modules/axios/dist/axios.min.js"></script>
+	<script>
+		new Vue({
+			el: "#app",
+			components: {
+				'navbar-component': httpVueLoader('./components/navbar.vue'),
+				'home-component': httpVueLoader('./components/home.vue'),
+				'about-component': httpVueLoader('./components/about.vue'),
+				'skills-component': httpVueLoader('./components/skills.vue'),
+				'qualification-component': httpVueLoader('./components/qualification.vue'),
+				'services-component': httpVueLoader('./components/services.vue'),
+				'portfolio-component': httpVueLoader('./components/portfolio.vue'),
+				'project-component': httpVueLoader('./components/project.vue'),
+				'certificates-component': httpVueLoader('./components/certificates.vue'),
+				'contact-component': httpVueLoader('./components/contact.vue'),
+				'footer-component': httpVueLoader('./components/footer.vue'),
+			},
+			data () {
+				return {
+					certs: null,
+					ports: null
+				}
+			},
+			mounted() {
+				this.getCerts(),
+				this.getPorts()
+			},
+			methods: {
+				getCerts(){
+					var vm = this
+					axios({
+						method: 'GET',
+						url: './assets/json/certs.json'
+					}).then(function(resp){
+						vm.certs = resp.data.response
+					}).catch((err) => {
+						console.log(err)
+					})
+				},
+				getPorts(){
+					var vm = this
+					axios({
+						method: 'GET',
+						url: './assets/json/ports.json'
+					}).then(function(resp){
+						vm.ports = resp.data.response
+					}).catch((err) => {
+						console.log(err)
+					})
+				}
+			}
+		})
+	</script>
+
+</body>
+</html>
