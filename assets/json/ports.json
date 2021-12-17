@@ -2,7 +2,7 @@
     "response": [{
 		"id": 1,
 		"title": "Demo Weblog",
-		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, aliquam.",
+		"description": "Weblog about technology and computer from my youtube channel",
 		"link": "https://sanedevproj.web.app/",
 		"img" : "assets/images/project1.png",
 		"button_name": "site"
