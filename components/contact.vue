@@ -28,32 +28,33 @@
 				</div>
 			</div>
 
-			<form action="" class="contact_form grid">
+			<form action="https://formspree.io/f/xbjwjwlb" method="post" class="contact_form grid">
 				<div class="contact_inputs grid">
 					<div class="contact_content">
 						<label for="" class="contact_label">Name</label>
-						<input type="text" class="contact_input">
+						<input type="text" name="name" class="contact_input">
 					</div>
 					<div class="contact_content">
 						<label for="" class="contact_label">Email</label>
-						<input type="email" class="contact_input">
+						<input type="email" name="_replyto" class="contact_input">
 					</div>
 					<div class="contact_content">
 						<label for="" class="contact_label">Title</label>
-						<input type="text" class="contact_input">
+						<input type="text" name="title" class="contact_input">
 					</div>
 					<div class="contact_content">
 						<label for="" class="contact_label">Message</label>
-						<textarea name="" id="" cols="0" rows="7" class="contact_input"></textarea>
+						<textarea name="message" cols="0" rows="7" class="contact_input"></textarea>
 					</div>
 
 					<div>
-						<a href="" class="button button--flex">
+						<button href="#home" class="button button--flex button--contact" type="submit" value="Send">
 							Send Message
 							<i class="uil uil-message button_icon"></i>
-						</a>
+						</button>
 					</div>
 				</div>
+				
 			</form>
 		</div>
 	</section>
