@@ -1,7 +1,10 @@
 <template>
 	<nav class="nav container">
-				<a href="#" class="nav_logo">Lacakp</a>
-		
+				<a href="#" class="nav_logo">
+					<!-- <img class="logo" src="assets/images/lacakp_logo_t.png" width="100px" alt="lacakp_logo"> -->
+					Lacakp
+				</a>
+				
 				<div class="nav_menu" id="nav-menu">
 					<ul class="nav_list grid">
 						<li class="nav_item">

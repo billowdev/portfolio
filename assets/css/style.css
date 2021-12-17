@@ -96,6 +96,12 @@
 }
 
 /* Dark theme variable Section*/
+.logo{
+	max-width: 100% !important;
+	width: 100px !important;
+	height: auto !important;
+}
+
 body.dark-theme{
 	/* HSL Color mode */
 	/* https://www.w3schools.com/colors/colors_hsl.asp */
