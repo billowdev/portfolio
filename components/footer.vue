@@ -34,7 +34,7 @@
 			  </div>
 		  </div>
 
-		  <p class="footer_copy">Copyright © 2022 All Rights Reserved by lacakp</p>
+		  <p class="footer_copy" style="color: #fff">Copyright © 2022 All Rights Reserved by lacakp</p>
 	  </div>
   </footer>
 </template>
