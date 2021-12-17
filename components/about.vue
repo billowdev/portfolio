@@ -8,7 +8,7 @@
 
 				<div class="about_data">
 					<p class="about_description">
-						มีความถนัดในด้าน Web Scraping สามารถเขียนโปรแกรมด้วยภาษา Python ได้เป็นอย่างดี และภาษาอื่นๆ ในระดับปานกลาง เช่น Java, C#, Dart, lua มีความรู้ความเข้าใจเกี่ยวกับฐานข้อมูล และเขียนเว็บไซต์ด้วย HTML CSS Java Script PHP และใช้ Framework อย่าง Django และ Vue js
+						Proficient in web scraping, good programming in Python, and other languages at a moderate level, such as Java, C#, Dart, and Lua. Knowledge of databases And websites development with HTML and CSS Java Script, PHP, and frameworks such as Django and Vue.js.
 					</p>
 					<div class="about_info">
 						<div>

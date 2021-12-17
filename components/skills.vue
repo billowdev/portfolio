@@ -146,14 +146,70 @@
 				</div>
 
 				<div>
+			<!-- Skills 3 -->
+				
+					<div class="skills_content skills_close">
+						<div class="skills_header">
+							<i class="uil uil-swatchbook skills_icon"></i>
+
+							<div>
+								<h1 class="skills_title">Mobile Application</h1>
+								<!-- <span class="skills_subtitle">More than 1 years</span> -->
+							</div>
+
+							<i class="uil uil-angle-down skills_arrow"></i>
+						</div>
+
+						<div class="skills_list grid">
+							<div class="skills_data">
+								<div class="skills_titles">
+									<h3 class="skills_name">Flutter</h3>
+									<span class="skills_number">80%</span>
+								</div>
+								<div class="skills_bar">
+									<span class="skills_percentage skills_flutter"></span>
+								</div>
+							</div>
+						</div>
+
+						<div class="skills_list grid">
+							<div class="skills_data">
+								<div class="skills_titles">
+									<h3 class="skills_name">React Native</h3>
+									<span class="skills_number">60%</span>
+								</div>
+								<div class="skills_bar">
+									<span class="skills_percentage skills_reactNative"></span>
+								</div>
+							</div>
+						</div>
+
+						<!-- <div class="skills_list grid">
+							<div class="skills_data">
+								<div class="skills_titles">
+									<h3 class="skills_name">Kotlin</h3>
+									<span class="skills_number">80%</span>
+								</div>
+								<div class="skills_bar">
+									<span class="skills_percentage skills_machine"></span>
+								</div>
+							</div>
+						</div> -->
+
+					</div>
+				</div>
+			</div>
+			
+			
 					<!-- Skills 3 -->
+					<!--
 					<div class="skills_content skills_close">
 						<div class="skills_header">
 							<i class="uil uil-swatchbook skills_icon"></i>
 
 							<div>
 								<h1 class="skills_title">Data Science</h1>
-								<!-- <span class="skills_subtitle">More than 1 years</span> -->
+								<span class="skills_subtitle">More than 1 years</span>
 							</div>
 
 							<i class="uil uil-angle-down skills_arrow"></i>
@@ -197,7 +253,7 @@
 					</div>
 				</div>
 			</div>
-
+			-->
 		</section>
 </template>
 <script>

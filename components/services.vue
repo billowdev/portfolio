@@ -108,7 +108,7 @@
 						</li>
 						<li class="services_modal-service">
 							<i class="uil uil-check-circle services_modal-icon"></i>
-							<p>ทำงานไวในระยะเวลาแล้วแต่ความยากง่ายของแอพพลิเตชัน</p>
+							<p>ทำงานไวในระยะเวลาแล้วแต่ความยากง่ายของแอพพลิเคชัน</p>
 						</li>
 					</ul>
 				</div>

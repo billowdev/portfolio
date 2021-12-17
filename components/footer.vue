@@ -4,7 +4,7 @@
 		  <div class="footer_container container grid">
 			  <div>
 				  <h1 class="footer_title">lacakp</h1>
-				  <span class="footer_subtitle">Developer </span>
+				  <span class="footer_subtitle">Akkarapon Phikulsri</span>
 			  </div>
 
 			  <ul class="footer_links">

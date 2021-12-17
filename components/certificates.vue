@@ -41,7 +41,7 @@ module.exports = {
 			},
 			keyboard: true,
 			mouse: true
-		})
+		});
 	}
 }
 </script>
