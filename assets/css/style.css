@@ -539,7 +539,8 @@ img{
 .skills_vuejs,
 .skills_php,
 .skills_pandas,
-.skills_machine{
+.skills_machine,
+.skills_flutter{
 	width: 80%;
 }
 
@@ -549,7 +550,8 @@ img{
 	width: 70%;
 }
 
-.skills_javascript{
+.skills_javascript,
+.skills_reactNative{
 	width: 60%;
 }
 

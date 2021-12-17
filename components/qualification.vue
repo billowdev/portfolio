@@ -74,10 +74,10 @@
 							<!-- <span class="qualification_line"></span> -->
 						</div>
 						<div>
-							<h3 class="qualification_title">Developer</h3>
-							<span class="qualification_subtitle">ALPHA COMPANY</span>
+							<h3 class="qualification_title">-</h3>
+							<span class="qualification_subtitle">-</span>
 							<div class="qualification_calendar">
-								<i class="uil uil-calendar-alt"></i> 2024 - 2025
+								<i class="uil uil-calendar-alt"></i> -
 							</div>
 						</div>
 					</div>

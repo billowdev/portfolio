@@ -67,8 +67,11 @@
 			<section class="certificates section">
 				<h2 class="section_title">Certificates</h2>
 				<span class="section_subtitle">
-					Success = Do^Continuously 🙂<br> เลื่อนดูได้ครับ 😋 <br> ไม่หวง 😆</span>
-				
+					Success = Do^Continuously 🙂<br> 
+				Certificates from <br>
+				<span class="typing_cer"></span>
+				<br><br><br>
+
 				<span class="section_subtitle">Future Skill</span>
 
 				<div class="certificates_container container swiper">
@@ -123,7 +126,24 @@
 	<!-- vue js -->
 	<script src="./assets/js/vue.min.js"></script>
 	<!-- Axios -->
-	<script src="node_modules/axios/dist/axios.min.js"></script>
+	<script src="./assets/js/axios.min.js"></script>
+	<!-- typed -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+	<!-- jquery -->
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+
+	<script>
+		$(document).ready(function(){
+			// typing animetion script
+			var typed = new Typed(".typing_cer", {
+				strings: ["FutureSkill", "LinkedIn", "Udemy", "and other"],
+				typeSpeed: 100,
+				backSpeed: 60,
+				loop: true
+			});
+		});
+	</script>
 
 	<script>
 		new Vue({

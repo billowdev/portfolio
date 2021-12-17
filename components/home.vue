@@ -36,9 +36,8 @@
 				</div>
 				<div class="home_data">
 					<h1 class="home_title">Hi, I'm Akkarapon</h1>
-					<h3 class="home_subtitle">Full Stack Developer</h3>
-					<p class="home_description">สวัสดีครับ ผมชื่อแล็คนะครับ (lacakkarapon) ปัจจุบันผมเป็นนักศึกษา วิทยาการคอมพิวเตอร์
-						ที่ชื่นชอบในการเขียนโปรแกมด้วยภาษา Python ซึ่งเป็น universal programming language ใช้เขียนได้หลากหลายงาน เช่น การใช้เทคนิค Web Scraping และ การทำ Machine Learning หรืองานด้าน Data Scince ครับ</p>
+					<h3 class="home_subtitle"> I'm a <span class="typing"></span> </h3>
+					<p class="home_description">Hello, my name is Akkarapon Phikulsri. I am currently a student of computer science who likes to program in Python, which is a universal programming language. It can be used to do a variety of tasks, such as using Web Scraping techniques and making machine learning or data science.</p>
 					<a href="#contact" class="button button--flex">
 						Contact Me <i class="uil uil-message button_icon"></i>
 					</a>
@@ -57,7 +56,17 @@
 </template>
 
 <script>
-module.exports = {};
+module.exports = {
+		mounted() {
+		// typing animetion script
+		var typed = new Typed(".typing", {
+			strings: ["Student", "Developer", "Freelancer"],
+			typeSpeed: 100,
+			backSpeed: 60,
+			loop: true
+		});
+	}
+};
 </script>
 
 <style scope>

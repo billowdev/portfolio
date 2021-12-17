@@ -39,7 +39,7 @@
 						<input type="email" class="contact_input">
 					</div>
 					<div class="contact_content">
-						<label for="" class="contact_label">Project</label>
+						<label for="" class="contact_label">Title</label>
 						<input type="text" class="contact_input">
 					</div>
 					<div class="contact_content">
