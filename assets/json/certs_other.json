@@ -4,21 +4,21 @@
 		"name": "SoftSkill1",
 		"platform": "LinkedIn",
 		"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi, quod.",
-		"img" : "../assets/images/cert_img/cer (4).jpg",
+		"img" : "assets/images/cert_img/cer (4).jpg",
 		"link": " "
 	},{
 		"id": 2,
 		"name": "SoftSkill2",
 		"platform": "LinkedIn",
 		"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi, quod.",
-		"img" : "../assets/images/cert_img/cer (5).jpg",
+		"img" : "assets/images/cert_img/cer (5).jpg",
 		"link": " "
 	},{
 		"id": 3,
 		"name": "SoftSkill3",
 		"platform": "LinkedIn",
 		"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi, quod.",
-		"img" : "../assets/images/cert_img/cer (6).jpg",
+		"img" : "assets/images/cert_img/cer (6).jpg",
 		"link": " "
 	}
 	]       
