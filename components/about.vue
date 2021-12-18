@@ -28,8 +28,8 @@
 					</div>
 
 					<div class="about_buttons">
-						<a download="" href="assets/pdf/lacakp-CV.pdf" class="button button--flex">
-							Download CV<i class="uil uil-download-alt button_icon"></i>
+						<a href="#certificates" class="button button--flex">
+							Certificates<i class="uil uil-arrow-down button_icon"></i>
 						</a>
 					</div>
 				</div>

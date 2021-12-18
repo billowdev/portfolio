@@ -551,12 +551,12 @@ img{
 }
 
 .skills_css,
-.skills_react,
 .skills_node{
 	width: 70%;
 }
 
 .skills_javascript,
+.skills_react,
 .skills_reactNative{
 	width: 60%;
 }
