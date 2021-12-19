@@ -33,6 +33,11 @@
 							</a>
 						</li>
 						<li class="nav_item">
+							<a href="#certificates" class="nav_link">
+								<i class="uil uil-award nav_icon"></i> Certificates
+							</a>
+						</li>
+						<li class="nav_item">
 							<a href="#contact" class="nav_link">
 								<i class="uil uil-message nav_icon"></i> Contact
 							</a>
