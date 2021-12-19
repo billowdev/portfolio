@@ -27,11 +27,12 @@
 		"link": "https://github.com/lacakp/Project-Fruit-Image-Classification",
 		"img" : "assets/images/project4.png",
 		"button_name": "Repo."
-	},{
+	},
+	{
 		"id": 5,
 		"title": "Youtube",
 		"description": "Youtube Channel abot basic coding Matlab, Python etc.",
-		"link": "https://www.youtube.com/channel/UC_rdRnVhKYYkD5d-3TsnvLA",
+		"link": "https://www.youtube.com/channel/UCGl7Rmg-RIAuxnBnBweJ9Ew",
 		"img" : "assets/images/project5.png",
 		"button_name": "Youtube"
 	}
