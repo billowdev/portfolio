@@ -43,7 +43,7 @@
 			<!-- Portfolio Section -->
 			<section class="portfolio section" id="portfolio">
 				<h2 class="section_title">Portfolio</h2>
-				<span class="section_subtitle">ภาวนามยปัญญา ปัญญาที่เกิดจากการลงมือทำ 😼</span>
+				<span class="section_subtitle"> my portfolio</span>
 				<div class="portfolio_container container swiper">
 					<div class="swiper-wrapper">
 						<portfolio-component v-for="port in ports" :key="port.id" :port="port"></portfolio-component>
@@ -68,9 +68,8 @@
 			<section class="certificates section" id="certificates">
 				<h2 class="section_title">Certificates</h2>
 				<span class="section_subtitle">
-					Success = Do^Continuously 🙂<br> 
-				Certificates from <br>
-				<span class="typing_cer"></span>
+				Certificates from FutureSkill, LinkedIn<br>
+				
 				<br><br><br>
 
 				<span class="section_subtitle">Future Skill</span>
@@ -130,21 +129,6 @@
 	<script src="./assets/js/axios.min.js"></script>
 	<!-- typed -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
-	<!-- jquery -->
-	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-
-	<script>
-		$(document).ready(function(){
-			// typing animetion script
-			var typed = new Typed(".typing_cer", {
-				strings: ["FutureSkill", "LinkedIn", "Udemy", "and other"],
-				typeSpeed: 100,
-				backSpeed: 60,
-				loop: true
-			});
-		});
-	</script>
 
 	<script>
 		new Vue({

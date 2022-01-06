@@ -36,7 +36,6 @@
 				</div>
 				<div class="home_data">
 					<h1 class="home_title">Hi, I'm Akkarapon</h1>
-					<h3 class="home_subtitle"> I'm a <span class="typing"></span> </h3>
 					<p class="home_description">Hello, my name is Akkarapon Phikulsri. I am currently a student of computer science who likes to program in Python, which is a universal programming language. It can be used to do a variety of tasks, such as using Web Scraping techniques and making machine learning or data science.</p>
 					<a href="#contact" class="button button--flex">
 						Contact Me <i class="uil uil-message button_icon"></i>
@@ -56,17 +55,7 @@
 </template>
 
 <script>
-module.exports = {
-		mounted() {
-		// typing animetion script
-		var typed = new Typed(".typing", {
-			strings: ["Student", "Developer", "Freelancer"],
-			typeSpeed: 100,
-			backSpeed: 60,
-			loop: true
-		});
-	}
-};
+module.exports = {}
 </script>
 
 <style scope>
