@@ -4,7 +4,7 @@
 			<span class="section_subtitle">My introduction</span>
 
 			<div class="about_container container grid">
-				<img src="assets/images/profile_l.png" alt="" class="about_img">
+				<img src="assets/images/profile_l.webp" alt="" class="about_img">
 
 				<div class="about_data">
 					<p class="about_description">

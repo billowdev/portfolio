@@ -4,77 +4,77 @@
 		"name": "Soft Skill-ทักษะการดีไซด์",
 		"platform": "Future Skill",
 		"description": "เป็นหนึ่งคอร์สที่ดีมากๆ เลยครับได้ความรู้เกี่ยวกับการทำกราฟหรือรูปแบบการนำเสนอข้อมูลที่ดี และมีการสอนเกี่ยวกับการใช้สี หลักการดีไซด์ต่างๆ ให้งานน่าสนใจมากขึ้น ซึ่งสามารถนำความรู้ไปประยุกต์ใช้ได้ทั้งงาน ที่ทำเกี่ยวกับข้อมูลวิทยาศาสตร์ข้อมูล ไปจนถึงการดีไซด์",
-		"img" : "assets/images/cert_img/FutureSkill/cf_1.jpg",
+		"img" : "assets/images/cert_img/FutureSkill/cf_1.webp",
 		"link": "https://drive.google.com/file/d/1IZ8Hme7eg5zeZCeVO0Zz0Rp2Rr-e5KIP/view?usp=sharing"
 	},{
 		"id": 2,
 		"name": "Data Science",
 		"platform": "Future Skill",
 		"description": "ได้ความรู้เกี่ยวกับ Data Science เป็นการปูพื้นฐานที่ดีสำหรับคนที่สนใจในเรื่อง Data Science ซึ่งคอร์สนี้ ทำให้ผมได้ความรู้ในเรื่องวิทยาศาสตร์ข้อมูพื้นฐาน และกระบวนการทำงานของวิทยาศาสตร์ข้อมูล ทำให้ผมเห็นภาพรวมมากขึ้นครับ : )",
-		"img" : "assets/images/cert_img/FutureSkill/cf_3.jpg",
+		"img" : "assets/images/cert_img/FutureSkill/cf_3.webp",
 		"link": "https://tinyurl.com/1-datascience-futureskill"
 	},{
 		"id": 3,
 		"name": "Soft Skill-ทักษะการเรียนรู้",
 		"platform": "Future Skill",
 		"description": "ได้ความรู้เกี่ยวกับวิธีการเรียนรู้ มุมมอง การเรียนอย่างไรให้ได้ประสิทธิภาพ ไปจนถึงกระบวนการคิดของสมอง การเรียนรู้ของสมองต่างๆ และเทคนิคอีกมากมายเกี่ยวกับการเรียนรู้",
-		"img" : "assets/images/cert_img/FutureSkill/cf_2.jpg",
+		"img" : "assets/images/cert_img/FutureSkill/cf_2.webp",
 		"link": "https://drive.google.com/file/d/17R7q_VW8GVFomukqcc7X5NSErnU-BSY8/view?usp=sharing"
 	},{
 		"id": 4,
 		"name": "Tech Skill-ทักษะสำหรับโปรแกรมเมอร์",
 		"platform": "Future Skill",
 		"description": "ได้ความรู้เกี่ยวกับวิธีคิดแบบโปรแกรมเมอร์ ภาพรวมของการทำงานแบบโปรแกรมเมอร์ และ ความสำคัญของอัลกอริทึม เป็นคอร์สที่ปูพื้นฐานสำหรับโปรแกรมมิ่ง ได้ดีคอร์สหนึ่งเลยทีเดียวสำหรับผู้เริ่มต้น ที่อยากจะเข้าสู่โลกของการเขียนโปรแกรม : )",
-		"img" : "assets/images/cert_img/FutureSkill/cf_4.jpg",
+		"img" : "assets/images/cert_img/FutureSkill/cf_4.webp",
 		"link": "https://tinyurl.com/started-to-basicprogramming"
 	},{
 		"id": 5,
 		"name": "Tech Skill-React-Native",
 		"platform": "Future Skill",
 		"description": "ได้เรียนรู้พื้นฐานการสร้าง Mobile Application ด้วย React-Native จากคอร์สนี้เรียนสนุกมากครับผู้สอน สอนเข้าใจง่าย และสามารถก็ได้นำความรู้ไปต่อยอดต่อไปได้ครับ",
-		"img" : "assets/images/cert_img/FutureSkill/cf_5.jpg",
+		"img" : "assets/images/cert_img/FutureSkill/cf_5.webp",
 		"link": "https://tinyurl.com/1-react-native-futureskill"
 	},{
 		"id": 6,
 		"name": "Tech Skill-Basic Python",
 		"platform": "Future Skill",
 		"description": "เป็นคอร์ส Python ที่ดีมาก ๆ คอร์สหนึ่งเลยครับ สอนเข้าใจง่าย อธิบายได้เคลียร์ และทำให้เห็นภาพรวมของการใช้งานภาษา Python ได้มากยิ่งขึ้น",
-		"img" : "assets/images/cert_img/FutureSkill/cf_6.jpg",
+		"img" : "assets/images/cert_img/FutureSkill/cf_6.webp",
 		"link": "https://tinyurl.com/basicpythonfutureskill"
 	},{
 		"id": 7,
 		"name": "Tech Skill-Web Scraping",
 		"platform": "Future Skill",
 		"description": "มีทักษะในการ Scrape (ดึง) ข้อมูลจาก Internet ที่เป็นทักษะที่สำคัญสำหรับการทำงานกับ data หรือ Big data ทำให้เราสามารถติดตามการเปลี่ยนแปลงของตัวเลขบนเว็ปไซต์ต่างๆที่เป็นข้อได้เปรียบอย่างมาก สามารถทำระบบสืบค้นสำหรับเว็ปไซต์ได้",
-		"img" : "assets/images/cert_img/FutureSkill/cf_7.jpg",
+		"img" : "assets/images/cert_img/FutureSkill/cf_7.webp",
 		"link": "https://drive.google.com/file/d/1GyuoToAayDFf2-pc-BJA-RFuHY_PS0hz/view?usp=sharing"
 	},{
 		"id": 8,
 		"name": "Tech Skill-Docker",
 		"platform": "Future Skill",
 		"description": "เป็นคอร์สสอนพื้นฐานต่างๆ เกี่ยวกับ Docker แบบลงมือปฏิบัติจริง ซึ่งคอร์สนี้ดีมากๆ เลยครับสำหรับใครที่สนใจ อยากจะใช้ Docker เพราะคอร์สนี้จะพาทุกท่านทำความรู้จัก Docker เริ่มสร้าง Container สร้างเว็บอย่างง่ายๆ ด้วยการใช้ Docker Registry ศูนย์รวมของ Docker Images วิธีใช้งาน Dockerfile Docker compose Docker Orchestration",
-		"img" : "assets/images/cert_img/FutureSkill/cf_8.jpg",
+		"img" : "assets/images/cert_img/FutureSkill/cf_8.webp",
 		"link": "https://drive.google.com/file/d/1Umaqtcsz-T7FXwY0Og8KaxO5pSB2jFNB/view?usp=sharing"
 	},{
 		"id": 9,
 		"name": "Tech Skill-Database",
 		"platform": "Future Skill",
 		"description": "Introduction to Data and Database Relational vs. NoSQL Database Relational Database Management System ทำความรู้จักกับ RDBMS ทำความรู้จักกับภาษา SQL ข้อดี-ข้อเสีย ทำไมถึงเหมาะกับงาน Database และคำสั่งการเขียน SQL",
-		"img" : "assets/images/cert_img/FutureSkill/cf_9.jpg",
+		"img" : "assets/images/cert_img/FutureSkill/cf_9.webp",
 		"link": "https://drive.google.com/file/d/1VIk4BzjImhJsKSjl63dhyLR27ER5Z-Qm/view"
 	},{
 		"id": 10,
 		"name": "Tech Skill-C Language",
 		"platform": "Future Skill",
 		"description": "ได้ทบทวนไวยากรณ์เบื้องต้นของภาษา C การเขียนโปรแกรมวนลูปเพื่อสร้างการทำงานประเภททำซ้ำ ถือเป็นหลักการพื้นฐานอีกหัวข้อหนึ่งของการเขียนโปรแกรม (Loop) การตรวจสอบเงื่อนไข (Conditional Statements) ทำงานกับข้อความ (string) ฟังก์ชันและพารามิเตอร์ (Function and parameter) อาร์เรย์ (Array) พอยน์เตอร์ (Pointer) ทำงานกับระบบไฟล์",
-		"img" : "assets/images/cert_img/FutureSkill/cf_10.jpg",
+		"img" : "assets/images/cert_img/FutureSkill/cf_10.webp",
 		"link": "https://drive.google.com/file/d/10-6NDi3gWsPNpeEF5oN7yYX6sOO6-ZN0/view?usp=sharing"
 	},{
 		"id": 11,
 		"name": "Tech Skill-Flutter",
 		"platform": "Future Skill",
 		"description": "คอร์สการเขียนแอพพลิเคชัน ด้วย flutter พื้นฐาน ผู้สอน สอนดีเข้าใจง่ายครับ เนื้อหาเป็นมิตรกับผู้เริ่มต้นอยากเขียนโมบายแอพ ซึ่ง fluttter สามารถนำไปรันได้ทั้ง android และ ios อีกทั้งยังสามารถทำเป็นเว็บได้ด้วยครับ ซึ่งโดยส่วนตัวได้นำความรู้จากคอร์สนี้มาประยุกต์ใช้ได้เยอะมากครับ :)",
-		"img" : "assets/images/cert_img/FutureSkill/cf_11.jpg",
+		"img" : "assets/images/cert_img/FutureSkill/cf_11.webp",
 		"link": "https://drive.google.com/file/d/1aFnNZcepTgzf6chO0oHVpmRmW-Ooxc4x/view?usp=sharing"
 	}
 	]       
