@@ -8,7 +8,7 @@
 
 				<div class="about_data">
 					<p class="about_description">
-						Proficient in web scraping, good programming in Python, and other languages at a moderate level, such as Java, C#, Dart, and Lua. Knowledge of databases And websites development with HTML and CSS Java Script, PHP, and frameworks such as Django and Vue.js.
+						Proficient in web scraping, good programming in Python, and other languages such as Java, C#, C++, HTML, CSS, and JavaScript. Knowledge of databases And websites development with HTML and CSS Java Script, PHP, and frameworks such as Django and Vue.js.
 					</p>
 					<div class="about_info">
 						<div>
