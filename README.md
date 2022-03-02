@@ -1,14 +1,15 @@
-# lacakp_port
+Awesome tutorial & design by [Bedimcode](https://www.youtube.com/channel/UCgkDs77BoEhMIgRUB4MKrtQ)
+
+# lacakp portfolio website
 
 ----------------------
-npm i vue
-npm i http-vue-loader
-npm i axios
-npm i swiper
+- vue
+- http-vue-loader
+- axios
+- swiper
 ----------------------
 
 
 preview
 ________
 
-www.lacakp.com
