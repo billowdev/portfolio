@@ -2,14 +2,12 @@ Awesome tutorial & design by [Bedimcode](https://www.youtube.com/channel/UCgkDs7
 
 # lacakp portfolio website
 
+HTML CSS JavaScript Vuejs
+
 ----------------------
 - vue
 - http-vue-loader
 - axios
 - swiper
 ----------------------
-
-
-preview
-________
 
