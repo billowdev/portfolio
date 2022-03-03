@@ -596,7 +596,7 @@ img{
 
 .qualification_icon{
 	font-weight: 1.8rem;
-	margin-right: var(--mb-0-25);
+	margin-left: var(--mb-0-25);
 }
 
 .qualification_data{
