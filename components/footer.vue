@@ -20,15 +20,12 @@
 			  </ul>
 
 			  <div class="footer_socials">
-				  <a href="https://web.facebook.com/lacakp" target="_blank" class="footer_social">
-					  <i class="uil uil-facebook-f"></i>
-				  </a>
-
-				  <a href="https://www.linkedin.com/in/lacakp/" target="_blank" class="footer_social">
+			
+				  <a href="https://www.linkedin.com/in/lacakira/" target="_blank" class="footer_social">
 					  <i class="uil uil-linkedin"></i>
 				  </a>
 
-				  <a href="https://www.github.com/lacakp" target="_blank" class="footer_social">
+				  <a href="https://www.github.com/lacakira" target="_blank" class="footer_social">
 					  <i class="uil uil-github"></i>
 				  </a>
 			  </div>
