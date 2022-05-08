@@ -2,7 +2,7 @@
 	<nav class="nav container">
 				<a href="#" class="nav_logo">
 					<!-- <img class="logo" src="assets/images/lacakp_logo_t.png" width="100px" alt="lacakp_logo"> -->
-					Lacakp
+					Lac Akkarapon P.
 				</a>
 				
 				<div class="nav_menu" id="nav-menu">
@@ -22,21 +22,21 @@
 								<i class="uil uil-file-alt nav_icon"></i> Skills
 							</a>
 						</li>
-						<li class="nav_item">
+						<!-- <li class="nav_item">
 							<a href="#services" class="nav_link">
 								<i class="uil uil-briefcase-alt nav_icon"></i> Services
 							</a>
-						</li>
+						</li> -->
 						<li class="nav_item">
 							<a href="#portfolio" class="nav_link">
 								<i class="uil uil-scenery nav_icon"></i> Portfolio
 							</a>
 						</li>
-						<li class="nav_item">
+						<!-- <li class="nav_item">
 							<a href="#certificates" class="nav_link">
 								<i class="uil uil-award nav_icon"></i> Certificates
 							</a>
-						</li>
+						</li> -->
 						<li class="nav_item">
 							<a href="#contact" class="nav_link">
 								<i class="uil uil-message nav_icon"></i> Contact

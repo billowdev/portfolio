@@ -3,15 +3,15 @@
 		<div class="home_container container grid">
 			<div class="home_content grid">
 				<div class="home_social">
-					<a href="https://www.linkedin.com/in/lacakp/" target="_blank" class="home_social">
+					<a href="https://www.linkedin.com/in/lacakira/" target="_blank" class="home_social">
 						<i class="uil uil-linkedin-alt home_social-icon"></i>
 					</a>
 
-					<a href="https://web.facebook.com/lacakp" target="_blank" class="home_social">
+					<!-- <a href="https://web.facebook.com/lacakkarapon" target="_blank" class="home_social">
 						<i class="uil uil-facebook-f home_social-icon"></i>
-					</a>
+					</a> -->
 
-					<a href="https://www.github.com/lacakp" target="_blank" class="home_social">
+					<a href="https://www.github.com/lacakira" target="_blank" class="home_social">
 						<i class="uil uil-github-alt home_social-icon"></i>
 					</a>
 				</div>

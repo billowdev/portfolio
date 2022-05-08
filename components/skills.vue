@@ -21,60 +21,60 @@
 						<div class="skills_list grid">
 							<div class="skills_data">
 								<div class="skills_titles">
-									<h3 class="skills_name">HTML</h3>
-									<span class="skills_number">90%</span>
+									<h3 class="skills_name">• HTML</h3>
+									<!-- <span class="skills_number">90%</span> -->
 								</div>
-								<div class="skills_bar">
+								<!-- <div class="skills_bar">
 									<span class="skills_percentage skills_html"></span>
-								</div>
+								</div> -->
 							</div>
 						</div>
 
 						<div class="skills_list grid">
 							<div class="skills_data">
 								<div class="skills_titles">
-									<h3 class="skills_name">CSS</h3>
-									<span class="skills_number">70%</span>
+									<h3 class="skills_name">• CSS</h3>
+									<!-- <span class="skills_number">70%</span> -->
 								</div>
-								<div class="skills_bar">
+								<!-- <div class="skills_bar">
 									<span class="skills_percentage skills_css"></span>
-								</div>
+								</div> -->
 							</div>
 						</div>
 
 						<div class="skills_list grid">
 							<div class="skills_data">
 								<div class="skills_titles">
-									<h3 class="skills_name">JavaScript</h3>
-									<span class="skills_number">60%</span>
+									<h3 class="skills_name">• JavaScript</h3>
+									<!-- <span class="skills_number">60%</span> -->
 								</div>
-								<div class="skills_bar">
+								<!-- <div class="skills_bar">
 									<span class="skills_percentage skills_javascript"></span>
-								</div>
+								</div> -->
 							</div>
 						</div>
 
 						<div class="skills_list grid">
 							<div class="skills_data">
 								<div class="skills_titles">
-									<h3 class="skills_name">React</h3>
-									<span class="skills_number">60%</span>
+									<h3 class="skills_name">• React.js</h3>
+									<!-- <span class="skills_number">60%</span> -->
 								</div>
-								<div class="skills_bar">
+								<!-- <div class="skills_bar">
 									<span class="skills_percentage skills_react"></span>
-								</div>
+								</div> -->
 							</div>
 						</div>
 
 						<div class="skills_list grid">
 							<div class="skills_data">
 								<div class="skills_titles">
-									<h3 class="skills_name">Vue JS</h3>
-									<span class="skills_number">80%</span>
+									<h3 class="skills_name">• Vue.js</h3>
+									<!-- <span class="skills_number">80%</span> -->
 								</div>
-								<div class="skills_bar">
+								<!-- <div class="skills_bar">
 									<span class="skills_percentage skills_vuejs"></span>
-								</div>
+								</div> -->
 							</div>
 						</div>
 
@@ -97,48 +97,48 @@
 						<div class="skills_list grid">
 							<div class="skills_data">
 								<div class="skills_titles">
-									<h3 class="skills_name">PHP</h3>
-									<span class="skills_number">80%</span>
+									<h3 class="skills_name">• PHP</h3>
+									<!-- <span class="skills_number">80%</span> -->
 								</div>
-								<div class="skills_bar">
+								<!-- <div class="skills_bar">
 									<span class="skills_percentage skills_php"></span>
-								</div>
+								</div> -->
 							</div>
 						</div>
 
 						<div class="skills_list grid">
 							<div class="skills_data">
 								<div class="skills_titles">
-									<h3 class="skills_name">Node JS</h3>
-									<span class="skills_number">70%</span>
+									<h3 class="skills_name">• Node.js</h3>
+									<!-- <span class="skills_number">70%</span> -->
 								</div>
-								<div class="skills_bar">
+								<!-- <div class="skills_bar">
 									<span class="skills_percentage skills_node"></span>
-								</div>
+								</div> -->
 							</div>
 						</div>
 
 						<div class="skills_list grid">
 							<div class="skills_data">
 								<div class="skills_titles">
-									<h3 class="skills_name">Firebase</h3>
-									<span class="skills_number">90%</span>
+									<h3 class="skills_name">• Firebase</h3>
+									<!-- <span class="skills_number">90%</span> -->
 								</div>
-								<div class="skills_bar">
+								<!-- <div class="skills_bar">
 									<span class="skills_percentage skills_firebase"></span>
-								</div>
+								</div> -->
 							</div>
 						</div>
 
 						<div class="skills_list grid">
 							<div class="skills_data">
 								<div class="skills_titles">
-									<h3 class="skills_name">Python</h3>
-									<span class="skills_number">90%</span>
+									<h3 class="skills_name">• Python</h3>
+									<!-- <span class="skills_number">90%</span> -->
 								</div>
-								<div class="skills_bar">
+								<!-- <div class="skills_bar">
 									<span class="skills_percentage skills_python"></span>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
@@ -163,24 +163,24 @@
 						<div class="skills_list grid">
 							<div class="skills_data">
 								<div class="skills_titles">
-									<h3 class="skills_name">Flutter</h3>
-									<span class="skills_number">80%</span>
+									<h3 class="skills_name"> • Flutter</h3>
+									<!-- <span class="skills_number">80%</span> -->
 								</div>
-								<div class="skills_bar">
+								<!-- <div class="skills_bar">
 									<span class="skills_percentage skills_flutter"></span>
-								</div>
+								</div> -->
 							</div>
 						</div>
 
 						<div class="skills_list grid">
 							<div class="skills_data">
 								<div class="skills_titles">
-									<h3 class="skills_name">React Native</h3>
-									<span class="skills_number">60%</span>
+									<h3 class="skills_name"> • React Native</h3>
+									<!-- <span class="skills_number">60%</span> -->
 								</div>
-								<div class="skills_bar">
+								<!-- <div class="skills_bar">
 									<span class="skills_percentage skills_reactNative"></span>
-								</div>
+								</div> -->
 							</div>
 						</div>
 
