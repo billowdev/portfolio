@@ -55,8 +55,8 @@
 					<div class="qualification_data">
 						<div>
 							
-							<h3 class="qualification_title">Freelance Websraping</h3>
-							<span class="qualification_subtitle">Fastwork</span>
+							<h3 class="qualification_title">Freelance</h3>
+							<span class="qualification_subtitle">web developer</span>
 							<div class="qualification_calendar">
 								<i class="uil uil-calendar-alt"></i> 2022 - Present
 							</div>
